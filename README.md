@@ -37,26 +37,21 @@
 ```python
 class NadeeAMRI:
     name       = "Nadee AMRI"
-    role       = "AI Developer & Intelligent Systems Engineer"
+    role       = "Biomedical Engineer"
     location   = "Tunisia 🇹🇳"
-    background = "Biomedical Engineering"
 
-    passion    = ["Deep Learning", "Computer Vision", "NLP"]
-    building   = "AI-powered healthcare solutions 🏥"
+    passion    = ["Deep Learning", "Computer Vision" , "Machine learning" , "Neural Networks"]
+    building   = "AI-powered healthcare solutions "
     learning   = ["Transformer Models", "RL", "MLOps"]
    
-    def philosophy(self):
-        return "Science and everyday life cannot be separated 🌸"
 ```
 
 <br>
 
-- 🔭 Working on **cutting-edge AI projects in Healthcare**
-- 🧠 Specializing in **Deep Learning & Neural Networks**
-- 👁️ Expert in **Computer Vision & Medical Imaging**
-- 🔬 Former **Engineering Intern** at Laboratory LATIS, ENISo
-- 🌸 Active Member of **LEO KEF ACROPOLIS**
-- 🚀 Always exploring **new frontiers in AI research**
+- Working on **cutting-edge AI projects in Healthcare**
+- Working on **Computer Vision & Medical Imaging**
+- Former **Engineering Intern** at Laboratory LATIS, ENISo
+- President of **LEO KEF ACROPOLIS**
 
 <br clear="right"/>
 
@@ -64,11 +59,11 @@ class NadeeAMRI:
 
 <!-- ═══════════════════════════════════════ TECH STACK ═════════════════════════════════════════ -->
 
-## `{ Tech Stack }` 💻
+## `{ Tech Stack }` 
 
 <div align="center">
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
@@ -79,19 +74,18 @@ class NadeeAMRI:
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 </p>
 
-### 🌐 Programming & Frameworks
+### Programming & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,nodejs,django,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,nodejs&theme=dark" />
 </p>
 
-### 🗄️ Databases, DevOps & Tools
+### Databases, DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,docker,git,linux,jupyter,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,git,linux,jupyter,vscode&theme=dark" />
 </p>
 
 </div>
@@ -100,25 +94,12 @@ class NadeeAMRI:
 
 <!-- ════════════════════════════════════════ EXPERTISE ═════════════════════════════════════════ -->
 
-## `{ Areas of Expertise }` 🔬
-
-<div align="center">
-
-|  🧠 Deep Learning  |  👁️ Computer Vision  |  💬 NLP  |  ⚙️ Intelligent Systems  |
-|:---:|:---:|:---:|:---:|
-| Neural Architecture | Image Classification | Text Analysis | Agent Design |
-| CNN · RNN · GAN | Object Detection | Sentiment Analysis | Decision Systems |
-| Transformers | Medical Image Seg. | Language Models | Reinforcement Learning |
-| Transfer Learning | Face Recognition | Text Generation | Control & Optimization |
-| Model Compression | Pose Estimation | RAG Systems | MLOps & Deployment |
-
-</div>
 
 ---
 
 <!-- ════════════════════════════════════════ STATS ════════════════════════════════════════════ -->
 
-## `{ GitHub Analytics }` 📊
+## `{ GitHub Analytics }` 
 
 <div align="center">
 
@@ -144,7 +125,7 @@ class NadeeAMRI:
 
 <!-- ════════════════════════════════════════ TROPHIES ═════════════════════════════════════════ -->
 
-## `{ Achievements }` 🏆
+## `{ Achievements }` 
 
 <div align="center">
 
@@ -159,7 +140,7 @@ class NadeeAMRI:
 
 <!-- ══════════════════════════════════ CONTRIBUTION GRAPH ════════════════════════════════════ -->
 
-## `{ Contribution Activity }` 📈
+## `{ Contribution Activity }` 
 
 <div align="center">
 
@@ -174,38 +155,15 @@ class NadeeAMRI:
 
 <!-- ══════════════════════════════════════ SNAKE GAME ═════════════════════════════════════════ -->
 
-## `{ Contribution Snake }` 🐍
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadee/nadee/output/github-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nadee/nadee/output/github-snake.svg"/>
-</picture>
-
-> ⚙️ *To enable the snake animation, add a [GitHub Action](https://github.com/Platane/snk) to your profile repo.*
-
-</div>
-
 ---
 
 <!-- ═══════════════════════════════════════ JOURNEY ═══════════════════════════════════════════ -->
 
-## `{ My Journey }` 🛤️
 
-```
-🎓  Biomedical Engineering Graduate ──────────────────────────────────── Foundation
-🔬  Engineering Intern @ LATIS Lab, ENISo ──────────────── Research & Development  
-🌸  Active Member @ LEO KEF ACROPOLIS ──────────────────────── Leadership & Impact
-🤖  AI Developer & Intelligent Systems Engineer ──────────────── Current Chapter
-🚀  Next: Advanced AI Research & Healthcare Innovation ─────────────── The Dream
-```
-
----
 
 <!-- ══════════════════════════════════════ CONNECT ════════════════════════════════════════════ -->
 
-## `{ Let's Connect }` 📫
+## `{ Let's Connect }` 
 
 <div align="center">
 
@@ -213,23 +171,15 @@ class NadeeAMRI:
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-FF1493?style=for-the-badge)](https://yourportfolio.com/)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-8B0057?style=for-the-badge)](https://www.linkedin.com/in/yourprofile/)
-[![Email](https://img.shields.io/badge/📧%20Email-C2185B?style=for-the-badge)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-4a0030?style=for-the-badge)](https://github.com/nadee)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-8B0057?style=for-the-badge)](https://www.linkedin.com/in/amri-nadee/)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-4a0030?style=for-the-badge)](https://github.com/nadee-amri)
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=nadee&color=FF1493&style=for-the-badge&label=PROFILE+VIEWS" />
 
-<br><br>
 
-> *"Science and everyday life cannot and should not be separated."*  
-> **— Rosalind Franklin** 🌸
-
-<br>
-
-**💖 Thanks for visiting! Let's build the future together!**
+** Thanks for visiting! Let's build the future together!**
 
 <br>
 
