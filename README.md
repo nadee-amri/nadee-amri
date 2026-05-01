@@ -10,7 +10,6 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0057?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amri-nadee/)
-[![Gmail](https://img.shields.io/badge/Email-C2185B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadeeamri@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4a0030?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadee-amri)
 
 <br>
