@@ -2,7 +2,7 @@
 
 <!-- ══════════════════════════════════════════ HEADER ══════════════════════════════════════════ -->
  
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:060012,40:130020,100:1f0035&height=260&section=header&text=NADEE%20AMRI&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=AI%20Developer%20%C2%B7%20Biomedical%20Engineer%20%C2%B7%20Deep%20Learning%20Specialist&descAlignY=64&descSize=15&stroke=E040FB&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:060012,40:130020,100:1f0035&height=260&section=header&text=NADEE%20AMRI&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=%20%C2%B7%20Biomedical%20Engineer%20%C2%B7%&descAlignY=64&descSize=15&stroke=E040FB&strokeWidth=1)
  
 <!-- ═══════════════════════════════════════════ BADGES ══════════════════════════════════════════ -->
 
