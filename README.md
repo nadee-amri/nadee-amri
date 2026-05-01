@@ -16,7 +16,7 @@
 
 <!-- ══════════════════════════════════════ TYPING ANIMATION ════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=🧠+Deep+Learning+%26+Neural+Networks;👁️+Computer+Vision+Expert;🔬+Biomedical+AI+Researcher;🤖+Building+Intelligent+Systems;🌸+Engineering+the+Future)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=🧠+Deep+Learning+%26+Neural+Networks;👁️+Computer+Vision+Expert;🔬+Biomedical+AI+Researcher;🤖+Building+Intelligent+Systems;🌸+Biomedical+Engineering+)](https://git.io/typing-svg)
 
 <br>
 
